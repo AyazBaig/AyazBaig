@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyazBaig
 - 👀 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently enrolled in Google Data Analytics Course at Coursera
 
 <!---
 AyazBaig/AyazBaig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
